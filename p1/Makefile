@@ -7,3 +7,6 @@ data: compile
 
 text:
 	./dumpvar -i /tmp/outfile
+
+clean:
+	rm dumpvar genvar
